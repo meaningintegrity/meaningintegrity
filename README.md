@@ -1,16 +1,53 @@
-## Hi there 👋
+# Meaning Integrity
 
-<!--
-**meaningintegrity/meaningintegrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems don’t fail when they look unstable.
 
-Here are some ideas to get you started:
+They fail while still appearing stable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Meaning Integrity is a framework for detecting **false stability** in complex systems.
+
+It models the relationship between:
+- drift (how systems move away from alignment)
+- correction capacity (the ability to recover)
+- intervention timing (when action still changes outcomes)
+
+---
+
+## Core Idea
+
+Two systems can appear equally stable while already diverging toward completely different outcomes.
+
+One recovers.  
+One collapses.
+
+The difference is not visible at the state level.
+
+It exists in:
+- trajectory  
+- timing  
+- and whether correction capacity still exists  
+
+---
+
+## What This Repository Contains
+
+- Conceptual model of interpretive stability
+- Early simulation interface (ISS)
+- Visualizations of trajectory divergence and intervention timing
+
+---
+
+## Why It Matters
+
+By the time failure is obvious, intervention is often already too late.
+
+Meaning Integrity makes early-stage failure visible, measurable, and actionable.
+
+---
+
+## Status
+
+Initial release.  
+Framework and simulation interface under active development.
